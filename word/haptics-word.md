@@ -17,3 +17,15 @@ ex)
 誘発する
 
 ex) induce pseudo-haptics：擬似ハプティクスを実現する
+
+
+### perceptions
+認識
+
+
+### phenomenon
+現象
+
+
+### distort
+捻じ曲げる

@@ -1,5 +1,5 @@
-## ハプティクスに関する単語
-
+## 読んだ論文
+https://ieeexplore.ieee.org/document/9424469
 
 ### Pseudo
 擬似
@@ -29,3 +29,9 @@ ex) induce pseudo-haptics：擬似ハプティクスを実現する
 
 ### distort
 捻じ曲げる
+
+### Displacement
+変異量
+
+### Deformation
+変形

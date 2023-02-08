@@ -4,7 +4,7 @@
 .
 ├── readme.md
 └── word 論文の中で知った専門単語など 
-    └── haptics-word.md
+    └── haptic-feedback-design.md
 ```
 
 

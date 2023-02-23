@@ -35,3 +35,21 @@ ex) induce pseudo-haptics：擬似ハプティクスを実現する
 
 ### Deformation
 変形
+
+
+### Workaround Techniques
+回避技術
+
+
+### Kinetic Friction
+動摩擦
+
+
+### Static Friction
+静止摩擦係数
+
+### Modulation
+変調方式
+
+### Complementation
+補完

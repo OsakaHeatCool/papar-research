@@ -25,3 +25,14 @@ Aが~を可能にする
 
 ### work together
 挙動で行う
+
+
+### pharmaceutical
+製薬の
+
+
+### over the past few years
+この数年間に渡って
+
+### encourage A to do
+Aを勧める

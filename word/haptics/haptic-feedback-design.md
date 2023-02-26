@@ -18,14 +18,11 @@ ex)
 
 ex) induce pseudo-haptics：擬似ハプティクスを実現する
 
-
 ### perceptions
 認識
 
-
 ### phenomenon
 現象
-
 
 ### distort
 捻じ曲げる
@@ -36,14 +33,11 @@ ex) induce pseudo-haptics：擬似ハプティクスを実現する
 ### Deformation
 変形
 
-
 ### Workaround Techniques
 回避技術
 
-
 ### Kinetic Friction
 動摩擦
-
 
 ### Static Friction
 静止摩擦係数

@@ -10,10 +10,8 @@
 ### enable A to do
 Aが~を可能にする
 
-
 ### attempt to do
 ~しようと試みる
-
 
 ### expenditures
 支出額
@@ -45,3 +43,22 @@ ex.) parking permit：駐車許可書
 
 ### preference
 好み
+
+### get in touch with
+~に連絡する
+
+### reimbursement
+払い戻し
+
+### crack
+ひび
+
+### time frame
+時間枠
+
+
+### deal with
+対処する
+
+
+
